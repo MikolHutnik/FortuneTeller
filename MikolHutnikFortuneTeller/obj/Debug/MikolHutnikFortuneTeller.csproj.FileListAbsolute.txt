@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\MikolHutnikFortuneTeller\MikolHutnikFortuneTeller\bin\Debug\MikolHutnikFortuneTeller.exe.config
+c:\users\wecancodeit\source\repos\MikolHutnikFortuneTeller\MikolHutnikFortuneTeller\bin\Debug\MikolHutnikFortuneTeller.exe
+c:\users\wecancodeit\source\repos\MikolHutnikFortuneTeller\MikolHutnikFortuneTeller\bin\Debug\MikolHutnikFortuneTeller.pdb
+c:\users\wecancodeit\source\repos\MikolHutnikFortuneTeller\MikolHutnikFortuneTeller\obj\Debug\MikolHutnikFortuneTeller.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\MikolHutnikFortuneTeller\MikolHutnikFortuneTeller\obj\Debug\MikolHutnikFortuneTeller.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\MikolHutnikFortuneTeller\MikolHutnikFortuneTeller\obj\Debug\MikolHutnikFortuneTeller.exe
+c:\users\wecancodeit\source\repos\MikolHutnikFortuneTeller\MikolHutnikFortuneTeller\obj\Debug\MikolHutnikFortuneTeller.pdb
